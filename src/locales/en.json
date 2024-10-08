@@ -1,0 +1,19 @@
+{
+  "title": "Categorized Links",
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode",
+  "socialMedia": "Social Media",
+  "news": "News",
+  "technology": "Technology",
+  "linkDescriptions": {
+    "facebook": "Connect with friends and the world around you.",
+    "twitter": "See what's happening in the world right now.",
+    "instagram": "Share your life through photos and videos.",
+    "bbc": "Trusted world and UK news as well as local and regional perspectives.",
+    "cnn": "Breaking news, latest stories, and video from around the world.",
+    "theGuardian": "Latest news, sport, business, comment, analysis and reviews.",
+    "techCrunch": "The latest technology news and information on startups.",
+    "wired": "In-depth coverage of current and future trends in technology.",
+    "theVerge": "Covering the intersection of technology, science, art, and culture."
+  }
+}
